@@ -1,5 +1,8 @@
-# Amirmohammad Mehdipour
-(Carmartdev)
+# Amirmohammad Mehdipour (Carmartdev)
+<a href="http://amirmomp.rf.gd/"><img width="100" height="100" src="https://img.icons8.com/clouds/100/domain.png" alt="My Website" title="My Website"/></a>
+<a href="https://amirmomp.medium.com/"><img width="100" height="100" src="https://img.icons8.com/stickers/100/medium-logo.png" alt="My Medium" title="My Medium"/></a>
+<a href="https://www.linkedin.com/in/amirmohammad-mehdipour-b96376170"><img width="100" height="100" src="https://img.icons8.com/clouds/100/linkedin.png" alt="linkedin"/></a>
+<a href="mailto:name@website.com"><img width="100" height="100" src="https://img.icons8.com/clouds/100/new-post.png" alt="new-post"/></a>
 ### Hi there 👋
 
 - 🌱 I’m currently learning **Full-Stack-Dev**
