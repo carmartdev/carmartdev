@@ -7,4 +7,4 @@
 <a href="https://twitter.com/amirmomp"><img width="100" height="100" src="https://img.icons8.com/clouds/100/twitter-squared.png" alt="twitter-squared"/></a>
 
 # Hi there 👋
-- 🌱 I’m currently Studying **Computer Science**
+- 🌱 I’m currently Studying **Computer Engineering**
